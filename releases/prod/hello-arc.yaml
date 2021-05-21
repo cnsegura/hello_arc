@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Welcome to GitOps for K8s!
+      value: Sprint 18 demo!
