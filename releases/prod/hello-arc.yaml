@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Sprint 18 demo!
+      value: Hello Arc/k8 World!
